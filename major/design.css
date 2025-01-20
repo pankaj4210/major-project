@@ -1,0 +1,75 @@
+*
+{
+    background-color:wheat;
+}
+.nav 
+{
+  border:2px solid black;
+  border-radius: 13px;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+.nav h1
+{
+    margin-left:2vh;
+}
+.nav ul li
+{
+list-style: none;
+display:inline-block;
+margin:0 10px;
+margin-right: 7vh;
+}
+.nav ul li a
+{
+    color:black;
+    text-decoration: none;
+    
+}
+.nav ul li a:hover
+{
+    color:green;
+}
+.team
+{
+    border:2px solid black;
+    height: 111vh;
+    margin-top:2vh;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+.first
+{
+    border:2px solid black;
+    height: 65%;
+    width:55vh;
+    margin-left: 2vh;
+    margin-top:2vh;
+    margin:0 20px;
+}
+.second
+{
+    border:2px solid black;
+    height: 65%;
+    width:55vh;
+    margin-left: 2vh;
+    margin-top:2vh;
+    margin:0 20px;
+}
+.third
+{
+    border:2px solid black;
+    height: 65%;
+    width:55vh;
+    margin-left: 2vh;
+    margin-top:2vh;
+    margin:0 20px;
+}
+.info
+{
+    border:2px solid black;
+    height:111vh;
+    margin-top:2vh;
+}
